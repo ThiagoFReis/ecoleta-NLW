@@ -1,7 +1,5 @@
 # ECOLETA
 ### Aplicação feita com JavaScript, HTML e CSS
-Criado juntamente com o projeto Next Level Week da Rocketseat.
-
   Nesse curso, criamos uma aplicação que cadastra pontos de coletas de resíduos. Através dela, as entidades se cadastram, colocando os seus dados e o tipo de itens que coletam. Sendo assim, o usuário quando acessa a página, pode identificar qual o local de descarte mais próximo da sua região, e que coleta o item que ele necessita descartar.
   
 ## Segue as imagens do projeto:
