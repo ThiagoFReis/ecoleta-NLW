@@ -1,4 +1,5 @@
 # ♻️ Ecoleta
+Desenvolvido durante a Next Level Week 1.0 da Rocketseat.
 ## Aplicação que auxilia na coleta e descarte de resíduos ecológicos.
   Nesse curso, criamos uma aplicação que cadastra pontos de coletas de resíduos ecológicos. Através dela, as entidades se cadastram, colocando os seus dados e o tipo de itens que coletam. Sendo assim, o usuário quando acessa a página, pode identificar qual o local de descarte mais próximo da sua região, e que coleta o item que ele necessita descartar.
   
